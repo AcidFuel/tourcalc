@@ -7,6 +7,9 @@
 	<groupId>com.acidfuel</groupId>
 	<artifactId>tourcalc</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<modules>
+        <module>tourcalc</module>
+    </modules>
 	<packaging>jar</packaging>
 
 	<name>maven_project</name>
