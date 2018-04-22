@@ -11,7 +11,7 @@ private static double countpeople, constantatransport, constantafood, priceoneto
 
 private static String tourcost;
 
-private static String SetToutCost(double countnight, double countpeople, double constantatransport, double constantafood, double priceonetourist, double pricetransport, double pricefood, double procent) {
+public static String SetToutCost(double countnight, double countpeople, double constantatransport, double constantafood, double priceonetourist, double pricetransport, double pricefood, double procent) {
 
 String strtourcost = null;
 
